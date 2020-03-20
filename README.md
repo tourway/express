@@ -1,6 +1,13 @@
-# express
-node express web
+# bitfans-vue-fe
 
-npm i
+> A Node express  Web
 
+## Build Setup
+
+```bash
+npm install
+```
+
+```bash
 npm run start
+```
